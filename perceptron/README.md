@@ -3,4 +3,4 @@ Perceptrons are basic ml units which can learn to do basic binary classification
 f =  Wx +b > 0 ? 1: 0
 
 
-They can learn binary operations like AND and OR but fail in higher classification like in XOR
+They can learn binary operations like AND and OR but fail in higher classification like in XOR. Read [more](https://en.wikipedia.org/wiki/Perceptron)
